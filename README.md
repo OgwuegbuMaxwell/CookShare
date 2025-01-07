@@ -23,3 +23,20 @@
 ### Lnading page completed
 ![Screenshot (332)](https://github.com/user-attachments/assets/85258fba-a9e5-4413-a48f-32cef4ff9528)
 
+
+
+### Meal page completed
+
+![Screenshot (334)](https://github.com/user-attachments/assets/66b43cce-bd67-40db-8657-863fa4db232d)
+
+
+
+### Error handling on meal page
+
+![Screenshot (333)](https://github.com/user-attachments/assets/9be6dc3e-ef44-4575-941d-f21b77608235)
+
+
+
+### Community page
+
+![Screenshot (335)](https://github.com/user-attachments/assets/6b6213ac-8fcb-4f45-b3fe-1a815aa82440)
