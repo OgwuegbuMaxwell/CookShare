@@ -40,3 +40,9 @@
 ### Community page
 
 ![Screenshot (335)](https://github.com/user-attachments/assets/6b6213ac-8fcb-4f45-b3fe-1a815aa82440)
+
+
+
+### Meal detail page
+
+![Screenshot (336)](https://github.com/user-attachments/assets/c6b267b5-b8ce-4a66-90b1-4c1847532fed)
