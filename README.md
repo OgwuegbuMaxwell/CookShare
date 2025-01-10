@@ -1,16 +1,22 @@
 # CookShare 🍲
 
-**CookShare** is a food lovers' community platform built with Next.js and React. It allows users to:
 
-- **Browse meals**: Discover a variety of dishes from the community.
-- **Share meals**: Upload your own creations for others to enjoy.
-- **Cooking tips**: Exchange tips and tricks to enhance your culinary skills.
-- **Step-by-step guides**: Share detailed instructions on how to prepare your favorite dishes.
+**CookShare** is a vibrant platform for food lovers to connect, share, and explore meals. Built using **Next.js**, it combines performance and functionality to create a welcoming community for food enthusiasts.
+
+
+## Features
+
+- **Share Meal Page**: Post your delicious creations with step-by-step instructions.
+- **Foodies Community Page**: Connect with like-minded food lovers to exchange tips and experiences.
+- **Browse Meal Page**: Explore a variety of dishes shared by the community.
+
 
 ## Tech Stack
-- **Framework**: [Next.js](https://nextjs.org/)
-- **Frontend**: React.js
-- **Styling**: [CSS Modules/Styled Components] 
+
+- **Frontend Framework**: [Next.js](https://nextjs.org/) (React-based)
+- **Styling**: CSS Modules
+- **Backend**: Next.js API Routes
+- **Database**: SQLite3 
 
 
 ## Screenshots
@@ -46,3 +52,8 @@
 ### Meal detail page
 
 ![Screenshot (336)](https://github.com/user-attachments/assets/c6b267b5-b8ce-4a66-90b1-4c1847532fed)
+
+
+
+### Share meal page
+![Screenshot (337)](https://github.com/user-attachments/assets/520f4b7a-de79-4839-9404-434639e1c174)
